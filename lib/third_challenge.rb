@@ -3,11 +3,11 @@ def third_challenge
     montague:{
       patriarch:{
         name:"Lord Montague",
-        Age:"53"
+        age:"53"
       },
       matriarch:{
         name:"Lady Montague",
-        Age:"54"
+        age:"54"
       },
       hero:{
         name:"Romeo",
